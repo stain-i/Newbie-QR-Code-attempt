@@ -21,7 +21,7 @@ QR code component challenge is a newbie challenge meant to test one's understand
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://stain-i.github.io/Newbie-QR-Code-attempt/)
 
 ## My process
 - I started out by writing the HTML code to put up and arrange all the sections.
