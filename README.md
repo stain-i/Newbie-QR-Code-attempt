@@ -20,7 +20,7 @@ QR code component challenge is a newbie challenge meant to test one's understand
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-attempt-using-html-and-css-ZmprOf1hjl)
 - Live Site URL: (https://stain-i.github.io/Newbie-QR-Code-attempt/)
 
 ## My process
